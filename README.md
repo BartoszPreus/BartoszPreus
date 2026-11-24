@@ -1,4 +1,4 @@
-## Cześć, jestem Bartosz 👋
+## Cześć, jestem Bartek 👋
 
 # 🛡️ O mnie:
 
