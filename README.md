@@ -34,6 +34,6 @@
 
 ### 📌 Projekty:
 
-🚀 **[Zodiak](https://github.com/BartoszPreus/NASA)** · 🏆 *NASA Space Apps Challenge 2026, projekt zespołowy*: szuka miejsc na Ziemi, których ukształtowanie terenu przypomina okolice bieguna południowego Księżyca, czyli potencjalne poligony testowe dla łazików i misji. **[Live app](https://zodiak-atlas.vercel.app/)**<br/>
+🚀 **[Zodiak](https://github.com/BartoszPreus/NASA)** · 🛰️ *NASA Space Apps Challenge 2026, projekt zespołowy*: szuka miejsc na Ziemi, których ukształtowanie terenu przypomina okolice bieguna południowego Księżyca, czyli potencjalne poligony testowe dla łazików i misji. **[Live app](https://zodiak-atlas.vercel.app/)**<br/>
 🔐 **[breach-checker](https://github.com/BartoszPreus/breach-checker)**: sprawdza, czy hasło wyciekło, **bez wysyłania hasła** (SHA-1 liczony w przeglądarce). Utwardzone kontenery, healthchecki, testy i raport Trivy: frontend **0 HIGH/CRITICAL**, obraz zmniejszony z 229 do 94 MB.<br/>
 🌐 **[Web-development-archive](https://github.com/BartoszPreus/Web-development-archive)**: 31 projektów webowych (HTML, CSS, JS, PHP, SQL).
